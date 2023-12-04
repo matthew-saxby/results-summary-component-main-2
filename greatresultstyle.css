@@ -1,0 +1,41 @@
+.scorecard{
+    width:1440px;
+}
+.attribution { 
+    font-size: 11px; text-align: center;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.purplebox{
+    align-self:center;
+    width: 300px;
+    height:500px;
+    background-color: hsl(252, 100%, 67%);
+    background-color: hsl(241, 81%, 54%);
+    border-radius:20px;  
+    z-index: 2;
+    text-align:center;
+}
+.a{
+    text-align:center;
+    padding-top:5%;
+    color:hsl(270, 38%, 93%);
+    font-size: 18px;
+}
+.circle{
+  height: 150px;
+  width: 150px;
+  background-color:purple;
+  border-radius: 50%;
+  display: inline-block;
+  justify-content: center;
+}
+.b{
+    font-size: 10px;
+    text-align: center;
+    color:white;
+}
+.c{
+    font-size: 30px;
+}
